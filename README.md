@@ -1,4 +1,4 @@
-![banner](banner.png)
+<p align="center"><img src="banner.svg" alt="banner"></p>
 
 Library for bridge to Laravel from the other framework. 
 
